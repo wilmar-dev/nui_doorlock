@@ -2,6 +2,10 @@
 
 A fork that is made to function with [QBCore](https://github.com/qbcore-framework/qb-core).
 
+This resource is **discontinued**, I will be working on [qb-doorlock](https://github.com/qbcore-framework/qb-doorlock) when we get to the NUI update.
+
+That it is discontinued doesn't mean that you can't use it, it's still usable but if you find a bug then I won't fix it.
+
 <hr>
 <p align="center"><img src='https://user-images.githubusercontent.com/65407488/114383355-cbd26c00-9bd0-11eb-9079-8c341e6824b1.png'></img></p>
 <hr>
